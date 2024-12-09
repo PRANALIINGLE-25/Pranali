@@ -1,3 +1,4 @@
+
 # 🌟 Pranali Balwant Ingle | Data Analyst 🚀
 
 ![Data Analyst](https://img.shields.io/badge/Data%20Analyst-Python%20|%20SQL%20|%20Excel%20|%20PowerBI%20|%20Tableau-brightgreen)  
@@ -37,9 +38,8 @@ I am a passionate **Data Analyst** with expertise in turning raw data into meani
 ---
 
 ## 🌍 **Connect With Me**
-[![LinkedIn] : www.linkedin.com/in/pranali-ingle-081930303  
+[![LinkedIn] : www.linkedin.com/in/pranali-ingle-081930303
 [![Email] : panuingle71@gmail.com
-
 ---
 
 ### 🚀 **Let’s Collaborate and Turn Data into Insights!** 🚀
