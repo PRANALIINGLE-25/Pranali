@@ -39,7 +39,9 @@ I am a passionate **Data Analyst** with expertise in turning raw data into meani
 
 ## 🌍 **Connect With Me**
 [![LinkedIn] : www.linkedin.com/in/pranali-ingle-081930303
+
 [![Email] : panuingle71@gmail.com
+
 ---
 
 ### 🚀 **Let’s Collaborate and Turn Data into Insights!** 🚀
